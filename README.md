@@ -1,4 +1,4 @@
-# activedirectory-groupmanagement
+# active-directory-group-management
 
 Understand how to create and manage groups in Active Directory for access control and organization.
 ## 🧠 Skills Practiced
